@@ -1,4 +1,4 @@
-# BasicTechnicalInterviewPrep
+# Technical Interview Question
 
 # Function Library
 
