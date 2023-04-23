@@ -2,7 +2,7 @@
 
 # Function Library
 
-This repository contains a collection of functions implemented in C# programming language. These functions cover various topics and can be used for different purposes. 
+This repository contains a collection of functions and Various Sorting Algorithms implemented in C# programming language. These functions cover various topics and can be used for different purposes. 
 
 ## List of Functions
 
@@ -33,6 +33,18 @@ This repository contains a collection of functions implemented in C# programming
 | DuplicateNumber | Finds the duplicate numbers in an integer array. |
 | LinearSearch | Searches for a given value in an integer array using linear search algorithm. |
 | BinarySearch | Searches for a given value in an integer array using binary search algorithm. |
+
+# Sorting Algorithms
+
+## List of Sorting Algorithms
+
+| Algorithm | Description |
+| --- | --- |
+| Bubble Sort | Compares adjacent elements and swaps them if they are in the wrong order. |
+| Selection Sort | Finds the minimum element from the unsorted part of the array and places it at the beginning. |
+| Insertion Sort | Builds the final sorted array one element at a time. |
+| Quick Sort | Picks a pivot element and partitions the array around the pivot element. |
+| Merge Sort | Divides the array into two halves, sorts them separately, and then merges them. |
 
 ## How to Use
 
