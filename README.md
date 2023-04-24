@@ -38,13 +38,13 @@ This repository contains a collection of functions and Various Sorting Algorithm
 
 ## List of Sorting Algorithms
 
-| Algorithm | Description |
-| --- | --- |
-| Bubble Sort | Compares adjacent elements and swaps them if they are in the wrong order. |
-| Selection Sort | Finds the minimum element from the unsorted part of the array and places it at the beginning. |
-| Insertion Sort | Builds the final sorted array one element at a time. |
-| Quick Sort | Picks a pivot element and partitions the array around the pivot element. |
-| Merge Sort | Divides the array into two halves, sorts them separately, and then merges them. |
+| Algorithm | Description | Best-case Time Complexity | Average-case Time Complexity | Worst-case Time Complexity |
+| --- | --- | --- | --- | --- |
+| Bubble Sort | Compares adjacent elements and swaps them if they are in the wrong order. | O(n) | O(n^2) | O(n^2) |
+| Selection Sort | Finds the minimum element from the unsorted part of the array and places it at the beginning. | O(n^2) | O(n^2) | O(n^2) |
+| Insertion Sort | Builds the final sorted array one element at a time. |  O(n) | O(n^2) | O(n^2) |
+| Quick Sort | Picks a pivot element and partitions the array around the pivot element. | O(n log n) | O(n log n) | O(n^2) |
+| Merge Sort | Divides the array into two halves, sorts them separately, and then merges them. | O(n log n) | O(n log n) | O(n log n) |
 
 ## How to Use
 
