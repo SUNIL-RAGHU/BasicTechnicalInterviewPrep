@@ -219,4 +219,4 @@ By using interfaces, we can write code that is more modular and flexible. We can
 - Maintainability: OOP makes it easier to maintain code as changes can be made to individual objects without affecting the rest of the program.
 - Extensibility: OOP makes it easier to add new features to a program by creating new objects or modifying existing ones.
 - Modularity: OOP enables code to be divided into smaller, more manageable parts, making it easier to understand and maintain.
--
+
