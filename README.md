@@ -61,9 +61,6 @@ Each function is documented with input and output examples in the source code. P
 
 Contributions are welcome! If you would like to add a new function or improve an existing one, please open an issue or submit a pull request.
 
-## License
-
-This repository is licensed under the MIT License. See LICENSE for more details.
 
 Thank you for visiting this repository!
 
