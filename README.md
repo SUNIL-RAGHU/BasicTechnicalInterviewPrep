@@ -46,6 +46,47 @@ This repository contains a collection of functions and Various Sorting Algorithm
 | Quick Sort | Picks a pivot element and partitions the array around the pivot element. | O(n log n) | O(n log n) | O(n^2) |
 | Merge Sort | Divides the array into two halves, sorts them separately, and then merges them. | O(n log n) | O(n log n) | O(n log n) |
 
+
+# C# Data Structures
+
+# Stack
+ A stack is a collection of elements that supports two main operations: push, which adds an element to the top of the stack, and pop, which removes and returns the element at the top of the stack. The last-in, first-out (LIFO) ordering principle applies to stacks.
+
+# Queue
+ A queue is a collection of elements that supports two main operations: enqueue, which adds an element to the back of the queue, and dequeue, which removes and returns the element at the front of the queue. The first-in, first-out (FIFO) ordering principle applies to queues.
+
+# Linked List
+   A linked list is a collection of elements, each of which contains a reference to the next element in the list. Each element is called a node, and contains a value and a reference to the next node in the list.
+   
+   | Data Structure | Function | Time Complexity |
+| --- | --- | --- |
+| Stack | push(T item) | O(1) |
+|  | pop() | O(1) |
+|  | peek() | O(1) |
+|  | count() | O(1) |
+| Queue | Enqueue(T item) | O(1) |
+|  | Dequeue() | O(1) |
+|  | Peek() | O(1) |
+|  | Count | O(1) |
+| LinkedList | AddFirst(T item) | O(1) |
+|  | AddLast(T item) | O(1) |
+|  | Insert(int index, T item) | O(n) |
+|  | RemoveFirst() | O(1) |
+|  | RemoveLast() | O(1) |
+|  | RemoveAt(int index) | O(n) |
+|  | Contains(T item) | O(n) |
+|  | this[int index] | O(n) |
+|  | Cycle() | O(n) |
+|  | Clear() | O(1) |
+| StackUsingQueue | push(T item) | O(1) |
+|  | pop() | O(n) |
+|  | peek() | O(n) |
+|  | count() | O(1) |
+| QueueusingStack | Enqueue(T item) | O(1) |
+|  | Dequeue() | O(n) |
+|  | Peek() | O(n) |
+|  | Count | O(1) |
+
 ## How to Use
 
 1. Clone the repository or download the zip file.
