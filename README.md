@@ -2,7 +2,7 @@
 
 # Function Library
 
-This repository contains a collection of functions and Various Sorting Algorithms implemented in C# programming language. These functions cover various topics and can be used for different purposes. 
+This repository contains a collection of functions ,Various Sorting Algorithms and Data Structure and Algorithms implemented in C# programming language. These functions cover various topics and can be used for different purposes. 
 
 ## List of Functions
 
