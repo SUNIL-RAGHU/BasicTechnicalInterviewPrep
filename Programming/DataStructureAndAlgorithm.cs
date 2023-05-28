@@ -521,7 +521,7 @@ namespace DataStructure
 
             while (temp.Next != null)
             {
-                if (EqualityComparer<T>.Default.Equals(value, temp.Value){
+                if (EqualityComparer<T>.Default.Equals(value, temp.Value)){
                     return true;
                 }
                 temp = temp.Next;
